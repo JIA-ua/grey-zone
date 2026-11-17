@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jia-ua.github.io/grey-zone/sitemap.xml
